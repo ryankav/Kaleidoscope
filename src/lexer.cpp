@@ -1,7 +1,6 @@
 #include <cctype> // needed for checking what the char is
 #include <cstdio> // needed for getchar
 #include <cstdlib> // needed for the conversion
-#include <string>
 
 #include "lexer.hpp"
 
